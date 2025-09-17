@@ -1,4 +1,4 @@
-@@ -1,103 +1,8 @@
+     SCREEN SHOT
  <p align="center">  
   <a href="">
     <img alt="HENRY" width="600" height="350" src="https://i.imgur.com/UChN96K.jpeg">
